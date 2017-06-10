@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "780936238457",
+    "firebase_url": "https://skkuruit.firebaseio.com",
+    "project_id": "skkuruit",
+    "storage_bucket": "skkuruit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780936238457:android:04ffc997bbdc3bb1",
+        "android_client_info": {
+          "package_name": "org.androidworldtown.skkuruit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780936238457-vurg6had8582hefahs9bb4g635upss8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXHh2Ib8DteoWVi0otlIWyt21Q1Z2hZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
